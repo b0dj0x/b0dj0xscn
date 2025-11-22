@@ -1,4 +1,4 @@
-# Basic Port Scanner
+# b0dj0xscn
 
 ## Description
 The **Optimized Port Scanner** is a Python-based network scanning tool that efficiently checks for open ports on a given target IP address or multiple IPs. It allows users to specify a range of ports to scan, defaults to scanning ports 1-1000 if not specified, and provides a user-friendly output using colors.
